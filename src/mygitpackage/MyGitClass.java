@@ -13,10 +13,14 @@ public class MyGitClass {
 		System.out.println("12. satir bilgisayarim");
 
 		System.out.println("12. satirdaki UZAK SUNCUDAKI kod");//githubtaki yeni kod
+
 		
 		System.out.println("17. satirdaki bilgisayarimdaki kod");
 		
 		
+
+		System.out.println("16. satirdaki UZAK SUNCUDAKI kod");//githubtaki yeni kod2
+
 
 		
 		
