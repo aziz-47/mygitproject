@@ -8,6 +8,8 @@ public class MyGitClass {
 		System.out.println("My 4th commit");
 		System.out.println("My 5th commit");
 		System.out.println("Uzak sunucudaki kodum");
+		System.out.println("Uzak sunucdaki yeni kodum");//githubtaki yeni kod
+		
 		
 			
 		
