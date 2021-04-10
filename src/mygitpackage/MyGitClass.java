@@ -12,6 +12,8 @@ public class MyGitClass {
 
 		System.out.println("12. satir bilgisayarim");
 		System.out.println("Aziz braccnhindeki yazdigim kodlar SATIR 14");
+		System.out.println("Aziz braccnhindeki yazdigim kodlar SATIR 15");
+		System.out.println("Aziz braccnhindeki yazdigim kodlar SATIR 16");
 
 		
 
